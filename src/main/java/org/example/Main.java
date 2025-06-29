@@ -54,6 +54,5 @@ public class Main
 
         containsWord.forEach(System.out::println);
 
-
     }
 }
